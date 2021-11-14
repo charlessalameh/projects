@@ -1,0 +1,9 @@
+#Readme File for configuring LDAP on Linux Boxes
+# Few steps to be done by order as Below
+
+# Hostname (makesure it is lest than 15 caracter you can change it with)
+hostnamectl set-hostname "hostname"
+
+#DNS Entry  on Active Directory 
+#on Active Directory 
+ #dsv
