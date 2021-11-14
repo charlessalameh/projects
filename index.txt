@@ -1,5 +1,1 @@
-sdfvsdfvsd
-hello world
-
-
-exit mode
+#Readme File for configuring LDAP on Linux Boxes
