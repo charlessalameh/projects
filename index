@@ -1,10 +1,16 @@
-#Readme File for configuring LDAP on Linux Boxes
-# Few steps to be done by order as Below
-
-# Hostname (makesure it is lest than 15 caracter you can change it with)
-hostnamectl set-hostname "hostname"
-
-#DNS Entry  on Active Directory 
-#on Active Directory 
- #dsv
-Testing
+this is a readme file for the inhealth Authentication Platform
+Documentation is on Plaza https://plaza.netcetera.com/wiki/display/INH/Systems+and+Services
+it covers the Below
+- Active Directory servers
+- DNS servers
+- USERS and Groups
+- Permission and Roles Groups
+- Group Policies
+- Scripts
+- LDAP Configuration
+- Password Policy
+- Stakeholders
+- VM list
+- VPN Users
+- On premisses Access
+- Jump station Azure Access
